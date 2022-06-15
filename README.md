@@ -24,10 +24,10 @@ Development was done entirely in a MacOS environment, but this should still run 
 - scikit-learn==1.1.1
 
 ** you can also run 
-	> pip install -r requirements.txt
+	`pip install -r requirements.txt`
 
 5. Once installed, start the program by running main.py:
-	> python3 main.py
+	`python3 main.py`
 
 6. The program's GUI should be launched and ready for use.
 
